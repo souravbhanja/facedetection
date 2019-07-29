@@ -6,7 +6,6 @@ import Rank from './components/rank/Rank';
 import Particles from 'react-particles-js';
 import './App.css';
 
-
 const particlesOptions = {
   particles: {
     number: {
